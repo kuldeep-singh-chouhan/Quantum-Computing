@@ -7,3 +7,4 @@ Qiskit is an open-source SDK for working with quantum computers at the level of 
 * Creating entangled state, superposition and measuring the qubits
 ### 2. Implementation of Deutsch-Jozsa Algorithm
 ### 3. Built QFT circuit for 3 qubits
+### 3. Report & presentation for qPCP Conjucture
